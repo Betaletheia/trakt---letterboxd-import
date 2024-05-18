@@ -12,9 +12,9 @@ from time import sleep
 
 import urllib
 
-CLIEN_ID= '' #Fill in your client id
-CLIEN_SECRECT = '' #Fill in your client secred
-CODE = '' #Fill in your code, which you get after authorization with your trakt account
+CLIEN_ID= '' 391f234b268b1a889ee362845bf96f93bcbd76e4f6ffe0e38e7df54b089ab1a7
+CLIEN_SECRECT = '' 12981c8a647ef5e71940af0e34e0d2b8381f186f65b0e470ecaf875079693aca
+CODE = '' ED5E9BAA
 
 
 # Optional: Use an API for obtaining imdb id
